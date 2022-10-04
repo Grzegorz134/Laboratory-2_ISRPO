@@ -1,5 +1,5 @@
-def square(a, b):
+def square(a):
     return a**2
 
-def perimeter(a, b):
+def perimeter(a):
     return a*4
